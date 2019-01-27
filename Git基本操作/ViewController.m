@@ -52,6 +52,16 @@
      11. 提交到远程
      git push --tags
      
+     12. 删除本地tag
+     git tag -d '0.0.1'
+     
+     13. 将删除的本地tag推送到远程
+     git push origin :0.0.1
+     
+     14. git push 403错误
+     原因: 本地缓存了用户名和密码
+     解决: 重新设置用户名和密码 linwenrui@
+     git remote set-url origin https://linwenrui@github.com/linwenrui/GitDemo.git
      */
 }
 
