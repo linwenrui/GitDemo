@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  Git基本操作
 //
-//  Created by 林文锐 on 2019/1/27.
-//  Copyright © 2019 林文锐. All rights reserved.
+//  Created by lwr on 2019/1/27.
+//  Copyright © 2019 lwr. All rights reserved.
 //
 
 #import "AppDelegate.h"
